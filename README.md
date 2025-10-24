@@ -21,4 +21,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/spoddub/leetcode-hub/tree/master/0206-reverse-linked-list) |
+## String
+|  |
+| ------- |
+| [3379-score-of-a-string](https://github.com/spoddub/leetcode-hub/tree/master/3379-score-of-a-string) |
 <!---LeetCode Topics End-->
