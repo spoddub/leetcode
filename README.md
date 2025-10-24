@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/spoddub/leetcode-hub/tree/master/0283-move-zeroes) |
 | [0392-is-subsequence](https://github.com/spoddub/leetcode-hub/tree/master/0392-is-subsequence) |
 | [0908-middle-of-the-linked-list](https://github.com/spoddub/leetcode-hub/tree/master/0908-middle-of-the-linked-list) |
+| [1019-squares-of-a-sorted-array](https://github.com/spoddub/leetcode-hub/tree/master/1019-squares-of-a-sorted-array) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/spoddub/leetcode-hub/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
 |  |
@@ -55,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/spoddub/leetcode-hub/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/spoddub/leetcode-hub/tree/master/0643-maximum-average-subarray-i) |
 | [0940-fruit-into-baskets](https://github.com/spoddub/leetcode-hub/tree/master/0940-fruit-into-baskets) |
+| [1019-squares-of-a-sorted-array](https://github.com/spoddub/leetcode-hub/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/spoddub/leetcode-hub/tree/master/1046-max-consecutive-ones-iii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/spoddub/leetcode-hub/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Hash Table
@@ -88,4 +90,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/spoddub/leetcode-hub/tree/master/0088-merge-sorted-array) |
+| [1019-squares-of-a-sorted-array](https://github.com/spoddub/leetcode-hub/tree/master/1019-squares-of-a-sorted-array) |
 <!---LeetCode Topics End-->
