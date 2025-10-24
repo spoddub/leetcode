@@ -23,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0019-remove-nth-node-from-end-of-list](https://github.com/spoddub/leetcode-hub/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0088-merge-sorted-array](https://github.com/spoddub/leetcode-hub/tree/master/0088-merge-sorted-array) |
 | [0234-palindrome-linked-list](https://github.com/spoddub/leetcode-hub/tree/master/0234-palindrome-linked-list) |
+| [0392-is-subsequence](https://github.com/spoddub/leetcode-hub/tree/master/0392-is-subsequence) |
 | [0908-middle-of-the-linked-list](https://github.com/spoddub/leetcode-hub/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/spoddub/leetcode-hub/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 ## Recursion
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/spoddub/leetcode-hub/tree/master/0392-is-subsequence) |
 | [3379-score-of-a-string](https://github.com/spoddub/leetcode-hub/tree/master/3379-score-of-a-string) |
 ## Stack
 |  |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0392-is-subsequence](https://github.com/spoddub/leetcode-hub/tree/master/0392-is-subsequence) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/spoddub/leetcode-hub/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Binary Search
 |  |
