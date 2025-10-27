@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/spoddub/leetcode-hub/tree/master/0146-lru-cache) |
 | [0817-design-hashmap](https://github.com/spoddub/leetcode-hub/tree/master/0817-design-hashmap) |
 | [0838-design-linked-list](https://github.com/spoddub/leetcode-hub/tree/master/0838-design-linked-list) |
+| [0969-number-of-recent-calls](https://github.com/spoddub/leetcode-hub/tree/master/0969-number-of-recent-calls) |
 ## Array
 |  |
 | ------- |
@@ -138,4 +139,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2470-removing-stars-from-a-string](https://github.com/spoddub/leetcode-hub/tree/master/2470-removing-stars-from-a-string) |
+## Queue
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/spoddub/leetcode-hub/tree/master/0969-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/spoddub/leetcode-hub/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
