@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/spoddub/leetcode-hub/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/spoddub/leetcode-hub/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/spoddub/leetcode-hub/tree/master/0125-valid-palindrome) |
 | [0344-reverse-string](https://github.com/spoddub/leetcode-hub/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/spoddub/leetcode-hub/tree/master/0392-is-subsequence) |
@@ -61,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/spoddub/leetcode-hub/tree/master/0020-valid-parentheses) |
+| [0071-simplify-path](https://github.com/spoddub/leetcode-hub/tree/master/0071-simplify-path) |
 | [0234-palindrome-linked-list](https://github.com/spoddub/leetcode-hub/tree/master/0234-palindrome-linked-list) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/spoddub/leetcode-hub/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2470-removing-stars-from-a-string](https://github.com/spoddub/leetcode-hub/tree/master/2470-removing-stars-from-a-string) |
