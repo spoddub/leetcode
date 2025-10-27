@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/spoddub/leetcode-hub/tree/master/0141-linked-list-cycle) |
 | [0206-reverse-linked-list](https://github.com/spoddub/leetcode-hub/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/spoddub/leetcode-hub/tree/master/0234-palindrome-linked-list) |
+| [0817-design-hashmap](https://github.com/spoddub/leetcode-hub/tree/master/0817-design-hashmap) |
 | [0838-design-linked-list](https://github.com/spoddub/leetcode-hub/tree/master/0838-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/spoddub/leetcode-hub/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/spoddub/leetcode-hub/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Design
 |  |
 | ------- |
+| [0817-design-hashmap](https://github.com/spoddub/leetcode-hub/tree/master/0817-design-hashmap) |
 | [0838-design-linked-list](https://github.com/spoddub/leetcode-hub/tree/master/0838-design-linked-list) |
 ## Array
 |  |
@@ -71,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/spoddub/leetcode-hub/tree/master/0209-minimum-size-subarray-sum) |
 | [0283-move-zeroes](https://github.com/spoddub/leetcode-hub/tree/master/0283-move-zeroes) |
 | [0643-maximum-average-subarray-i](https://github.com/spoddub/leetcode-hub/tree/master/0643-maximum-average-subarray-i) |
+| [0817-design-hashmap](https://github.com/spoddub/leetcode-hub/tree/master/0817-design-hashmap) |
 | [0940-fruit-into-baskets](https://github.com/spoddub/leetcode-hub/tree/master/0940-fruit-into-baskets) |
 | [1019-squares-of-a-sorted-array](https://github.com/spoddub/leetcode-hub/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/spoddub/leetcode-hub/tree/master/1046-max-consecutive-ones-iii) |
@@ -80,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/spoddub/leetcode-hub/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/spoddub/leetcode-hub/tree/master/0141-linked-list-cycle) |
+| [0817-design-hashmap](https://github.com/spoddub/leetcode-hub/tree/master/0817-design-hashmap) |
 | [0940-fruit-into-baskets](https://github.com/spoddub/leetcode-hub/tree/master/0940-fruit-into-baskets) |
 ## Sliding Window
 |  |
@@ -111,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/spoddub/leetcode-hub/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/spoddub/leetcode-hub/tree/master/0088-merge-sorted-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/spoddub/leetcode-hub/tree/master/1019-squares-of-a-sorted-array) |
+## Hash Function
+|  |
+| ------- |
+| [0817-design-hashmap](https://github.com/spoddub/leetcode-hub/tree/master/0817-design-hashmap) |
 <!---LeetCode Topics End-->
