@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0209-minimum-size-subarray-sum](https://github.com/spoddub/leetcode-hub/tree/master/0209-minimum-size-subarray-sum) |
 | [0215-kth-largest-element-in-an-array](https://github.com/spoddub/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
 | [0283-move-zeroes](https://github.com/spoddub/leetcode-hub/tree/master/0283-move-zeroes) |
+| [0347-top-k-frequent-elements](https://github.com/spoddub/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0643-maximum-average-subarray-i](https://github.com/spoddub/leetcode-hub/tree/master/0643-maximum-average-subarray-i) |
 | [0817-design-hashmap](https://github.com/spoddub/leetcode-hub/tree/master/0817-design-hashmap) |
 | [0940-fruit-into-baskets](https://github.com/spoddub/leetcode-hub/tree/master/0940-fruit-into-baskets) |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/spoddub/leetcode-hub/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/spoddub/leetcode-hub/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/spoddub/leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0347-top-k-frequent-elements](https://github.com/spoddub/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0817-design-hashmap](https://github.com/spoddub/leetcode-hub/tree/master/0817-design-hashmap) |
 | [0940-fruit-into-baskets](https://github.com/spoddub/leetcode-hub/tree/master/0940-fruit-into-baskets) |
 ## Sliding Window
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/spoddub/leetcode-hub/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/spoddub/leetcode-hub/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/spoddub/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/spoddub/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [1019-squares-of-a-sorted-array](https://github.com/spoddub/leetcode-hub/tree/master/1019-squares-of-a-sorted-array) |
 | [1397-search-suggestions-system](https://github.com/spoddub/leetcode/tree/master/1397-search-suggestions-system) |
 ## Hash Function
@@ -227,14 +230,25 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/spoddub/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/spoddub/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/spoddub/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [1397-search-suggestions-system](https://github.com/spoddub/leetcode/tree/master/1397-search-suggestions-system) |
 ## Divide and Conquer
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/spoddub/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/spoddub/leetcode/tree/master/0347-top-k-frequent-elements) |
 ## Quickselect
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/spoddub/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0347-top-k-frequent-elements](https://github.com/spoddub/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/spoddub/leetcode/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/spoddub/leetcode/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
