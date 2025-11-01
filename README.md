@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/spoddub/leetcode-hub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0234-palindrome-linked-list](https://github.com/spoddub/leetcode-hub/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/spoddub/leetcode-hub/tree/master/0283-move-zeroes) |
+| [0295-find-median-from-data-stream](https://github.com/spoddub/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/spoddub/leetcode-hub/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/spoddub/leetcode-hub/tree/master/0392-is-subsequence) |
 | [0908-middle-of-the-linked-list](https://github.com/spoddub/leetcode-hub/tree/master/0908-middle-of-the-linked-list) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0146-lru-cache](https://github.com/spoddub/leetcode-hub/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/spoddub/leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0295-find-median-from-data-stream](https://github.com/spoddub/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/spoddub/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0817-design-hashmap](https://github.com/spoddub/leetcode-hub/tree/master/0817-design-hashmap) |
 | [0838-design-linked-list](https://github.com/spoddub/leetcode-hub/tree/master/0838-design-linked-list) |
@@ -141,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/spoddub/leetcode-hub/tree/master/0015-3sum) |
 | [0088-merge-sorted-array](https://github.com/spoddub/leetcode-hub/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/spoddub/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/spoddub/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/spoddub/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/spoddub/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0502-ipo](https://github.com/spoddub/leetcode/tree/master/0502-ipo) |
@@ -165,6 +168,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Data Stream
 |  |
 | ------- |
+| [0295-find-median-from-data-stream](https://github.com/spoddub/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/spoddub/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0969-number-of-recent-calls](https://github.com/spoddub/leetcode-hub/tree/master/0969-number-of-recent-calls) |
 ## Tree
@@ -236,6 +240,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/spoddub/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0295-find-median-from-data-stream](https://github.com/spoddub/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/spoddub/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/spoddub/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0502-ipo](https://github.com/spoddub/leetcode/tree/master/0502-ipo) |
