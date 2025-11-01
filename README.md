@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0940-fruit-into-baskets](https://github.com/spoddub/leetcode-hub/tree/master/0940-fruit-into-baskets) |
 | [1019-squares-of-a-sorted-array](https://github.com/spoddub/leetcode-hub/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/spoddub/leetcode-hub/tree/master/1046-max-consecutive-ones-iii) |
+| [1127-last-stone-weight](https://github.com/spoddub/leetcode/tree/master/1127-last-stone-weight) |
 | [1397-search-suggestions-system](https://github.com/spoddub/leetcode/tree/master/1397-search-suggestions-system) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/spoddub/leetcode-hub/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 ## Hash Table
@@ -236,6 +237,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/spoddub/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/spoddub/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/spoddub/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
+| [1127-last-stone-weight](https://github.com/spoddub/leetcode/tree/master/1127-last-stone-weight) |
 | [1397-search-suggestions-system](https://github.com/spoddub/leetcode/tree/master/1397-search-suggestions-system) |
 ## Divide and Conquer
 |  |
