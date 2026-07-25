@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/spoddub/leetcode-hub/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/spoddub/leetcode-hub/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/spoddub/leetcode-hub/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/spoddub/leetcode/tree/master/0027-remove-element) |
 | [0088-merge-sorted-array](https://github.com/spoddub/leetcode-hub/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/spoddub/leetcode-hub/tree/master/0125-valid-palindrome) |
 | [0141-linked-list-cycle](https://github.com/spoddub/leetcode-hub/tree/master/0141-linked-list-cycle) |
@@ -87,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/spoddub/leetcode-hub/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/spoddub/leetcode-hub/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/spoddub/leetcode-hub/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0027-remove-element](https://github.com/spoddub/leetcode/tree/master/0027-remove-element) |
 | [0056-merge-intervals](https://github.com/spoddub/leetcode/tree/master/0056-merge-intervals) |
 | [0057-insert-interval](https://github.com/spoddub/leetcode/tree/master/0057-insert-interval) |
 | [0088-merge-sorted-array](https://github.com/spoddub/leetcode-hub/tree/master/0088-merge-sorted-array) |
