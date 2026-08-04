@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1127-last-stone-weight](https://github.com/spoddub/leetcode/tree/master/1127-last-stone-weight) |
 | [1397-search-suggestions-system](https://github.com/spoddub/leetcode/tree/master/1397-search-suggestions-system) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/spoddub/leetcode-hub/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
+| [1929-concatenation-of-array](https://github.com/spoddub/leetcode/tree/master/1929-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -166,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1929-concatenation-of-array](https://github.com/spoddub/leetcode/tree/master/1929-concatenation-of-array) |
 | [2470-removing-stars-from-a-string](https://github.com/spoddub/leetcode-hub/tree/master/2470-removing-stars-from-a-string) |
 ## Queue
 |  |
