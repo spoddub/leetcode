@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/spoddub/leetcode-hub/tree/master/0146-lru-cache) |
 | [0206-reverse-linked-list](https://github.com/spoddub/leetcode-hub/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/spoddub/leetcode-hub/tree/master/0234-palindrome-linked-list) |
+| [0705-design-hashset](https://github.com/spoddub/leetcode/tree/master/0705-design-hashset) |
 | [0817-design-hashmap](https://github.com/spoddub/leetcode-hub/tree/master/0817-design-hashmap) |
 | [0838-design-linked-list](https://github.com/spoddub/leetcode-hub/tree/master/0838-design-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/spoddub/leetcode-hub/tree/master/0908-middle-of-the-linked-list) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0146-lru-cache](https://github.com/spoddub/leetcode-hub/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/spoddub/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0295-find-median-from-data-stream](https://github.com/spoddub/leetcode/tree/master/0295-find-median-from-data-stream) |
+| [0705-design-hashset](https://github.com/spoddub/leetcode/tree/master/0705-design-hashset) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/spoddub/leetcode/tree/master/0789-kth-largest-element-in-a-stream) |
 | [0817-design-hashmap](https://github.com/spoddub/leetcode-hub/tree/master/0817-design-hashmap) |
 | [0838-design-linked-list](https://github.com/spoddub/leetcode-hub/tree/master/0838-design-linked-list) |
@@ -99,6 +101,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/spoddub/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0502-ipo](https://github.com/spoddub/leetcode/tree/master/0502-ipo) |
 | [0643-maximum-average-subarray-i](https://github.com/spoddub/leetcode-hub/tree/master/0643-maximum-average-subarray-i) |
+| [0705-design-hashset](https://github.com/spoddub/leetcode/tree/master/0705-design-hashset) |
 | [0817-design-hashmap](https://github.com/spoddub/leetcode-hub/tree/master/0817-design-hashmap) |
 | [0940-fruit-into-baskets](https://github.com/spoddub/leetcode-hub/tree/master/0940-fruit-into-baskets) |
 | [1019-squares-of-a-sorted-array](https://github.com/spoddub/leetcode-hub/tree/master/1019-squares-of-a-sorted-array) |
@@ -116,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/spoddub/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0347-top-k-frequent-elements](https://github.com/spoddub/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/spoddub/leetcode/tree/master/0451-sort-characters-by-frequency) |
+| [0705-design-hashset](https://github.com/spoddub/leetcode/tree/master/0705-design-hashset) |
 | [0817-design-hashmap](https://github.com/spoddub/leetcode-hub/tree/master/0817-design-hashmap) |
 | [0940-fruit-into-baskets](https://github.com/spoddub/leetcode-hub/tree/master/0940-fruit-into-baskets) |
 ## Sliding Window
@@ -159,6 +163,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Function
 |  |
 | ------- |
+| [0705-design-hashset](https://github.com/spoddub/leetcode/tree/master/0705-design-hashset) |
 | [0817-design-hashmap](https://github.com/spoddub/leetcode-hub/tree/master/0817-design-hashmap) |
 ## Doubly-Linked List
 |  |
