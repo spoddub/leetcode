@@ -54,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/spoddub/leetcode/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/spoddub/leetcode-hub/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/spoddub/leetcode-hub/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/spoddub/leetcode-hub/tree/master/0125-valid-palindrome) |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/spoddub/leetcode-hub/tree/master/0001-two-sum) |
+| [0014-longest-common-prefix](https://github.com/spoddub/leetcode/tree/master/0014-longest-common-prefix) |
 | [0015-3sum](https://github.com/spoddub/leetcode-hub/tree/master/0015-3sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/spoddub/leetcode-hub/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/spoddub/leetcode/tree/master/0027-remove-element) |
@@ -250,6 +252,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/spoddub/leetcode/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/spoddub/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [1397-search-suggestions-system](https://github.com/spoddub/leetcode/tree/master/1397-search-suggestions-system) |
 ## Heap (Priority Queue)
