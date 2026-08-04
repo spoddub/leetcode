@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0071-simplify-path](https://github.com/spoddub/leetcode-hub/tree/master/0071-simplify-path) |
 | [0125-valid-palindrome](https://github.com/spoddub/leetcode-hub/tree/master/0125-valid-palindrome) |
 | [0208-implement-trie-prefix-tree](https://github.com/spoddub/leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0242-valid-anagram](https://github.com/spoddub/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/spoddub/leetcode-hub/tree/master/0344-reverse-string) |
 | [0392-is-subsequence](https://github.com/spoddub/leetcode-hub/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/spoddub/leetcode/tree/master/0451-sort-characters-by-frequency) |
@@ -117,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0141-linked-list-cycle](https://github.com/spoddub/leetcode-hub/tree/master/0141-linked-list-cycle) |
 | [0146-lru-cache](https://github.com/spoddub/leetcode-hub/tree/master/0146-lru-cache) |
 | [0208-implement-trie-prefix-tree](https://github.com/spoddub/leetcode/tree/master/0208-implement-trie-prefix-tree) |
+| [0242-valid-anagram](https://github.com/spoddub/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/spoddub/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/spoddub/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0705-design-hashset](https://github.com/spoddub/leetcode/tree/master/0705-design-hashset) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0056-merge-intervals](https://github.com/spoddub/leetcode/tree/master/0056-merge-intervals) |
 | [0088-merge-sorted-array](https://github.com/spoddub/leetcode-hub/tree/master/0088-merge-sorted-array) |
 | [0215-kth-largest-element-in-an-array](https://github.com/spoddub/leetcode/tree/master/0215-kth-largest-element-in-an-array) |
+| [0242-valid-anagram](https://github.com/spoddub/leetcode/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/spoddub/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/spoddub/leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0451-sort-characters-by-frequency](https://github.com/spoddub/leetcode/tree/master/0451-sort-characters-by-frequency) |
