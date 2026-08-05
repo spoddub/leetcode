@@ -63,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0208-implement-trie-prefix-tree](https://github.com/spoddub/leetcode/tree/master/0208-implement-trie-prefix-tree) |
 | [0242-valid-anagram](https://github.com/spoddub/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/spoddub/leetcode-hub/tree/master/0344-reverse-string) |
+| [0387-first-unique-character-in-a-string](https://github.com/spoddub/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0392-is-subsequence](https://github.com/spoddub/leetcode-hub/tree/master/0392-is-subsequence) |
 | [0451-sort-characters-by-frequency](https://github.com/spoddub/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0680-valid-palindrome-ii](https://github.com/spoddub/leetcode/tree/master/0680-valid-palindrome-ii) |
@@ -130,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/spoddub/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/spoddub/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/spoddub/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/spoddub/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/spoddub/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0705-design-hashset](https://github.com/spoddub/leetcode/tree/master/0705-design-hashset) |
 | [0817-design-hashmap](https://github.com/spoddub/leetcode-hub/tree/master/0817-design-hashmap) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Queue
 |  |
 | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/spoddub/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0969-number-of-recent-calls](https://github.com/spoddub/leetcode-hub/tree/master/0969-number-of-recent-calls) |
 ## Data Stream
 |  |
@@ -297,6 +300,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/spoddub/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0387-first-unique-character-in-a-string](https://github.com/spoddub/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/spoddub/leetcode/tree/master/0451-sort-characters-by-frequency) |
 ## Greedy
 |  |
