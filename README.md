@@ -80,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/spoddub/leetcode-hub/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/spoddub/leetcode-hub/tree/master/0071-simplify-path) |
 | [0234-palindrome-linked-list](https://github.com/spoddub/leetcode-hub/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/spoddub/leetcode/tree/master/0682-baseball-game) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/spoddub/leetcode-hub/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [2470-removing-stars-from-a-string](https://github.com/spoddub/leetcode-hub/tree/master/2470-removing-stars-from-a-string) |
 ## Design
@@ -115,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/spoddub/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0502-ipo](https://github.com/spoddub/leetcode/tree/master/0502-ipo) |
 | [0643-maximum-average-subarray-i](https://github.com/spoddub/leetcode-hub/tree/master/0643-maximum-average-subarray-i) |
+| [0682-baseball-game](https://github.com/spoddub/leetcode/tree/master/0682-baseball-game) |
 | [0705-design-hashset](https://github.com/spoddub/leetcode/tree/master/0705-design-hashset) |
 | [0817-design-hashmap](https://github.com/spoddub/leetcode-hub/tree/master/0817-design-hashmap) |
 | [0940-fruit-into-baskets](https://github.com/spoddub/leetcode-hub/tree/master/0940-fruit-into-baskets) |
@@ -198,6 +200,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0682-baseball-game](https://github.com/spoddub/leetcode/tree/master/0682-baseball-game) |
 | [1929-concatenation-of-array](https://github.com/spoddub/leetcode/tree/master/1929-concatenation-of-array) |
 | [2470-removing-stars-from-a-string](https://github.com/spoddub/leetcode-hub/tree/master/2470-removing-stars-from-a-string) |
 ## Queue
