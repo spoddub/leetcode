@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/spoddub/leetcode-hub/tree/master/0283-move-zeroes) |
 | [0295-find-median-from-data-stream](https://github.com/spoddub/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0344-reverse-string](https://github.com/spoddub/leetcode-hub/tree/master/0344-reverse-string) |
+| [0349-intersection-of-two-arrays](https://github.com/spoddub/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0392-is-subsequence](https://github.com/spoddub/leetcode-hub/tree/master/0392-is-subsequence) |
 | [0680-valid-palindrome-ii](https://github.com/spoddub/leetcode/tree/master/0680-valid-palindrome-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/spoddub/leetcode-hub/tree/master/0908-middle-of-the-linked-list) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/spoddub/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0283-move-zeroes](https://github.com/spoddub/leetcode-hub/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/spoddub/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/spoddub/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0502-ipo](https://github.com/spoddub/leetcode/tree/master/0502-ipo) |
 | [0643-maximum-average-subarray-i](https://github.com/spoddub/leetcode-hub/tree/master/0643-maximum-average-subarray-i) |
 | [0705-design-hashset](https://github.com/spoddub/leetcode/tree/master/0705-design-hashset) |
@@ -131,6 +133,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/spoddub/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/spoddub/leetcode/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/spoddub/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/spoddub/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0387-first-unique-character-in-a-string](https://github.com/spoddub/leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0451-sort-characters-by-frequency](https://github.com/spoddub/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0705-design-hashset](https://github.com/spoddub/leetcode/tree/master/0705-design-hashset) |
@@ -155,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/spoddub/leetcode-hub/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0209-minimum-size-subarray-sum](https://github.com/spoddub/leetcode-hub/tree/master/0209-minimum-size-subarray-sum) |
+| [0349-intersection-of-two-arrays](https://github.com/spoddub/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [1046-max-consecutive-ones-iii](https://github.com/spoddub/leetcode-hub/tree/master/1046-max-consecutive-ones-iii) |
 | [1397-search-suggestions-system](https://github.com/spoddub/leetcode/tree/master/1397-search-suggestions-system) |
 ## Prefix Sum
@@ -173,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/spoddub/leetcode/tree/master/0242-valid-anagram) |
 | [0295-find-median-from-data-stream](https://github.com/spoddub/leetcode/tree/master/0295-find-median-from-data-stream) |
 | [0347-top-k-frequent-elements](https://github.com/spoddub/leetcode/tree/master/0347-top-k-frequent-elements) |
+| [0349-intersection-of-two-arrays](https://github.com/spoddub/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0451-sort-characters-by-frequency](https://github.com/spoddub/leetcode/tree/master/0451-sort-characters-by-frequency) |
 | [0502-ipo](https://github.com/spoddub/leetcode/tree/master/0502-ipo) |
 | [1019-squares-of-a-sorted-array](https://github.com/spoddub/leetcode-hub/tree/master/1019-squares-of-a-sorted-array) |
